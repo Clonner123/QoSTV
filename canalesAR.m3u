@@ -1,58 +1,61 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/.m3u8
-#EXTINF:-1 , CANAL RURAL
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 , PAKA PAKA
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 , ARGENTINISIMA SATELITAL
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
-#EXTINF:-1 , CANAL 26
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 , CANAL 7 DE SALTA
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", CANAL 7 DE SALTA
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 , TV CANAL DOS SALTA
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", TV CANAL DOS SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
-#EXTINF:-1 , TyC SPORT VIVO
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", TyC SPORT VIVO
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1 , FUTBOL EN VIVO
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", FUTBOL EN VIVO
 https://vod.livestreamapis.com/614be1a0_08568e46ed5dbed8d4859056251abaa2a5b58d63/events/0000000000965219/e0eb4713-0b1a-4fff-9d22-ecf769aff21f_2756.m3u8
-#EXTINF:-1 , CINE.AR
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", CINE.AR
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1 , HEROES
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", HEROES
 http://54.39.16.47:25461/live/825920319/825920319/2591.m3u8
 
 
-#EXTINF:-1 , PINGUINO TV EN VIVO
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", PINGUINO TV EN VIVO
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:-1 , EL GARAGE TV
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", EL GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 , MUSIC TOP ARG
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", MUSIC TOP ARG
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 , FASHION FILMS
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", FASHION FILMS
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-#EXTINF:-1 , TELE RITMO
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", TELE RITMO
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-#EXTINF:-1 , MUSIC TOP
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", MUSIC TOP
 http://bit.ly/2iLCJC2
-#EXTINF:-1 , LITUS TV EN VIVO
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", LITUS TV EN VIVO
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 , TELE 6 EN VIVO
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", TELE 6 EN VIVO
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-#EXTINF:-1 , RADIO M2O
+#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", RADIO M2O
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
 
 
 
 
-
-
-#EXTINF:-1, group-title="CINE", EL INICIO DEL MAL
+#EXTINF:-1 , group-title="CINE" EL INICIO DEL MAL;
 https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
 
-#EXTINF:-1, group-title="CINE", PROMETHEUS
+#EXTINF:-1 , group-title="CINE" PROMETHEUS;
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+
+
+
+
 
 
 
