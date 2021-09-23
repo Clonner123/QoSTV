@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/b5biaz42p5b98jj/logo-exito.png?dl=0", MULTIVISION SALTA
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/b5biaz42p5b98jj/logo-exito.png", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
