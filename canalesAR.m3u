@@ -47,6 +47,12 @@ http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", MUSIC TOP
 http://bit.ly/2iLCJC2
 
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/847_Tango_TV.png",Tango TV  | AR
+https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png",HISPANTV  
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png", LITUS TV EN VIVO
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
 
