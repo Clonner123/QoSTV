@@ -30,7 +30,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", FUTBOL EN VIVO
 https://vod.livestreamapis.com/614be1a0_08568e46ed5dbed8d4859056251abaa2a5b58d63/events/0000000000965219/e0eb4713-0b1a-4fff-9d22-ecf769aff21f_2756.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png",CINE.AR  | AR
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png",CINE.AR  
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 
