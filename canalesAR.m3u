@@ -51,7 +51,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1, group-title="CINE", EL INICIO DEL MAL
 https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
 
-#EXTINF:-1, PROMETHEUS
+#EXTINF:-1, group-title="CINE", PROMETHEUS
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
 
