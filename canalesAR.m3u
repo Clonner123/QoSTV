@@ -21,3 +21,31 @@ https://vod.livestreamapis.com/614be1a0_08568e46ed5dbed8d4859056251abaa2a5b58d63
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1 , HEROES
 http://54.39.16.47:25461/live/825920319/825920319/2591.m3u8
+
+
+#EXTINF:-1 , PINGUINO TV EN VIVO
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 , EL GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 , MUSIC TOP ARG
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 , FASHION FILMS
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:-1 , TELE RITMO
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1 , MUSIC TOP
+http://bit.ly/2iLCJC2
+#EXTINF:-1 , LITUS TV EN VIVO
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 , TELE 6 EN VIVO
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1 , RADIO M2O
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1, group-title="CINE" EL INICIO DEL MAL
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
