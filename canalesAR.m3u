@@ -7,7 +7,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
-#EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", CANAL 26
+#EXTINF:-1 , tvg-logo="https://www.ver-television.online/images/canal26_.png", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 , tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", CANAL 7 DE SALTA
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
