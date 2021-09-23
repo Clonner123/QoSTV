@@ -91,7 +91,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1, group-title="CINE", EL INICIO DEL MAL
 https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
 
-#EXTINF:-1, group-title="CINE" PROMETHEUS
+#EXTINF:-1, PROMETHEUS
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
 #EXTINF:-1 , DEAD POOL
