@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", MULTIVISION SALTA
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1 , CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 , PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 , ARGENTINISIMA SATELITAL
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+#EXTINF:-1 , CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 , CANAL 7 DE SALTA
+https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 , TV CANAL DOS SALTA
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
+#EXTINF:-1 , TyC SPORT VIVO
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 , FUTBOL EN VIVO
+https://vod.livestreamapis.com/614be1a0_08568e46ed5dbed8d4859056251abaa2a5b58d63/events/0000000000965219/e0eb4713-0b1a-4fff-9d22-ecf769aff21f_2756.m3u8
+#EXTINF:-1 , CINE.AR
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1 , HEROES
+http://54.39.16.47:25461/live/825920319/825920319/2591.m3u8
