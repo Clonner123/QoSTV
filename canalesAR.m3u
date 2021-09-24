@@ -24,7 +24,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/282_Garage_TV.png", EL GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg", TyC SPORT VIVO
+#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/tycsport.png", TyC SPORT VIVO
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", FUTBOL EN VIVO
