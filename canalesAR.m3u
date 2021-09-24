@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png", TV CANAL DOS SALTA
+#EXTINF:-1 tvg-logo="https://github.com/Clonner123/QoSTV/blob/ffbf5a9c4d7642a578cd50233215fc67f7d097e0/logo-QOS.png", TV CANAL DOS SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/284_Multivision.png", MULTIVISION SALTA
